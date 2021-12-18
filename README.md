@@ -5,3 +5,4 @@ Smart Home with webserver. Project made in Embedded Systems Fundamentals class. 
 | Member                         | Role                          |
 | ------------------------------ | ----------------------------- |
 | Méndez Cabrera Luis Enrique    | Web UI and Python Developer   |
+| José Luis                      | Python UI developer           |
